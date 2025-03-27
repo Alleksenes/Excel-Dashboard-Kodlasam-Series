@@ -1,4 +1,5 @@
-This project showcases data analysis and visualization skills using Microsoft Excel and the Superstore sales dataset. The goal was to make this dataset more understandable, and obviously, my data analysis skills 💪 *flexible* 💪.
+This work is the completion project of the Excel module of my training at Kodlasam, focusing on data analysis and visualization skills using Microsoft Excel and the Superstore sales dataset. The goal was to make this dataset more understandable, and obviously, my data analysis skills 💪 *flexible* 💪.
+
 
 ## Data Source
 
