@@ -1,7 +1,3 @@
-# Superstore Sales Data Analysis - Excel Dashboards
-
-## Overview
-
 This project showcases data analysis and visualization skills using Microsoft Excel and the Superstore sales dataset. The goal was to make this dataset more understandable, and obviously, my data analysis skills 💪 *flexible* 💪.
 
 ## Data Source
@@ -11,7 +7,7 @@ Superstore sales dataset, which can be found on [Kaggle](https://www.kaggle.com/
 ## Dashboards
 
 *   **Profit Margin Analysis:** Exploring profit margins by customer segment, seasonal profit trends, regional profitability, the impact of discounts on profit, and monthly sales and profit fluctuations.
-    *   ![Profit Margin Dashboard](png/profit.png)
+       ![Profit Margin Dashboard](png/profit.png)
 
     *   **Key Insights:**
         *   Varying Segment Profitability: Profit margins differ significantly across customer segments (Consumer, Corporate, Home Office), segment targeting strategies should be revisited.
@@ -23,7 +19,7 @@ Superstore sales dataset, which can be found on [Kaggle](https://www.kaggle.com/
  
 
 *   **Marketing Analysis:** Revisiting *profit* by category, seasonal sales trends, sub-category performance, customer segmentation, market distribution per segment, and segment performance.
-    *   ![Marketing Dashboard](png/marketing.png)
+       ![Marketing Dashboard](png/marketing.png)
 
     *   **Key Insights:**
         *   Technology Drives Profit: The Technology category accounts for the largest share of profit (61%), despite a smaller percentage of sales amount.
@@ -34,7 +30,7 @@ Superstore sales dataset, which can be found on [Kaggle](https://www.kaggle.com/
         *   Segment Performance Discrepancy: There is a discrepancy between the percentage of sales count and the percentage of profit for each segment, worth delving.
 
 *   **Shipping Analysis:** Displaying shipping mode distribution, seasonal trends in shipping costs, delivery days by region, and the correlation between shipping costs and profit.
-    *   ![Shipping Analysis Dashboard](png/logistics.png)
+       ![Shipping Analysis Dashboard](png/logistics.png)
 
     *   **Key Insights:**
         *   Dominant Standard Class: Standard Class shipping accounts for the vast majority of sales (79%), highlighting its importance for overall order fulfillment.
