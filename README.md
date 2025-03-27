@@ -7,7 +7,7 @@ Superstore sales dataset, which can be found on [Kaggle](https://www.kaggle.com/
 ## Dashboards
 
 *   **Profit Margin Analysis:** Exploring profit margins by customer segment, seasonal profit trends, regional profitability, the impact of discounts on profit, and monthly sales and profit fluctuations.
-    *   ![Profit Margin Dashboard](png/profit.png)
+       ![Profit Margin Dashboard](png/profit.png)
 
     *   **Key Insights:**
         *   Varying Segment Profitability: Profit margins differ significantly across customer segments (Consumer, Corporate, Home Office), segment targeting strategies should be revisited.
@@ -19,7 +19,7 @@ Superstore sales dataset, which can be found on [Kaggle](https://www.kaggle.com/
  
 
 *   **Marketing Analysis:** Revisiting *profit* by category, seasonal sales trends, sub-category performance, customer segmentation, market distribution per segment, and segment performance.
-    *   ![Marketing Dashboard](png/marketing.png)
+       ![Marketing Dashboard](png/marketing.png)
 
     *   **Key Insights:**
         *   Technology Drives Profit: The Technology category accounts for the largest share of profit (61%), despite a smaller percentage of sales amount.
