@@ -1,8 +1,4 @@
-# Superstore Sales Data Analysis - Excel Dashboards
-
-## Overview
-
-This project showcases data analysis and visualization skills using Microsoft Excel and the Superstore sales dataset. The goal was to make this dataset more understandable, and obviously, my data analysis skills 💪 *flexible* 💪.
+This work is the completion project of the Excel module of my training at Kodlasam, focusing on data analysis and visualization skills using Microsoft Excel and the Superstore sales dataset. The goal was to make this dataset more understandable, and obviously, my data analysis skills 💪 *flexible* 💪.
 
 ## Data Source
 
@@ -33,7 +29,7 @@ Superstore sales dataset, which can be found on [Kaggle](https://www.kaggle.com/
         *   US Market Share: The US market has the highest distribution per segment.
         *   Segment Performance Discrepancy: There is a discrepancy between the percentage of sales count and the percentage of profit for each segment, worth delving.
 
-*   **Shipping Analysis:** Displaying shipping mode distribution, seasonal trends in shipping costs, delivery days by region, and the correlation between shipping costs and profit.
+*   **Logistics Analysis:** Displaying shipping mode distribution, seasonal trends in shipping costs, delivery days by region, and the correlation between shipping costs and profit.
     *   ![Shipping Analysis Dashboard](png/logistics.png)
 
     *   **Key Insights:**
